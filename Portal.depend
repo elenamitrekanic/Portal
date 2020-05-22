@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1590106993 source:c:\users\aleksa\desktop\portal\portal\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<fstream>
+	<cstdlib>
+	<vector>
+	"Portal.hpp"
+	"Media.hpp"
+
+1590106993 c:\users\aleksa\desktop\portal\portal\portal.hpp
+	"Korisnik.hpp"
+
+1590106993 c:\users\aleksa\desktop\portal\portal\korisnik.hpp
+
+1590106993 c:\users\aleksa\desktop\portal\portal\media.hpp
+	"Zanr.hpp"
+	"Komentar.hpp"
+	"Metadata.hpp"
+
+1590106993 c:\users\aleksa\desktop\portal\portal\zanr.hpp
+
+1590167537 c:\users\aleksa\desktop\portal\portal\komentar.hpp
+
+1590106993 c:\users\aleksa\desktop\portal\portal\metadata.hpp
+

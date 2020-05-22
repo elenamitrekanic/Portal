@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1590106993 source:c:\users\elena\downloads\portal_za_gledanje_seija\portal za gledanje seija\portal\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<fstream>
+	<cstdlib>
+	<vector>
+	"Portal.hpp"
+	"Media.hpp"
+
+1590106993 c:\users\elena\downloads\portal_za_gledanje_seija\portal za gledanje seija\portal\portal.hpp
+	"Korisnik.hpp"
+
+1590106993 c:\users\elena\downloads\portal_za_gledanje_seija\portal za gledanje seija\portal\korisnik.hpp
+
+1590106993 c:\users\elena\downloads\portal_za_gledanje_seija\portal za gledanje seija\portal\media.hpp
+	"Zanr.hpp"
+	"Komentar.hpp"
+	"Metadata.hpp"
+
+1590106993 c:\users\elena\downloads\portal_za_gledanje_seija\portal za gledanje seija\portal\zanr.hpp
+
+1590167537 c:\users\elena\downloads\portal_za_gledanje_seija\portal za gledanje seija\portal\komentar.hpp
+
+1590106993 c:\users\elena\downloads\portal_za_gledanje_seija\portal za gledanje seija\portal\metadata.hpp
+
